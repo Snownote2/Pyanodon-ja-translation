@@ -1,0 +1,22 @@
+{
+  "name": "py-locale-ja-snownote",
+  "version": "0.2.1",
+  "factorio_version": "2.0",
+  "title": "Pyanodons日本語化",
+  "author": "snownote",
+  "description": "2.0対応のPyanodons日本語化MOD。原作者onsenbandaiに感謝！元Modの翻訳データを更に補完しましたけど、まだまだ未完成で、文書の修正要望はいつも受け付けます。",
+  "dependencies": ["base >= 2.0.0", 
+  		"? pycoalprocessing", 
+  		"? pyfusionenergy", 
+  		"? pyhightech", 
+  		"? pyindustry",
+  		"? pypetroleumhandling",
+  		"? pyrawores",
+  		"? enable-all-feature-flags ",
+  		"? pyalternativeenergy  ",
+  		"? pyalienlife"]
+}
+
+
+
+
